@@ -10,7 +10,6 @@
   <li>React</li>
   <li>Next.JS</li>
 </ul>
-<br>
 <h1 align="center">Hello!</h1>
 <h3>=I'm a Front End Web Developer<br>= I enjoy completing challenges, participating in bootcamps and marathons!</h3>
 <p>Skills:</p>
