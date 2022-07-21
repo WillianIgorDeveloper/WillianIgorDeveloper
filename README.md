@@ -23,7 +23,7 @@
   <li>CSS</li>
   <li>SASS</li>
 </ul>
-<h4>Estou aprimorando:</h4>
+<h4>Improving:</h4>
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
