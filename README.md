@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Sou Willian Igor</h1>
 
-<img align="right" style="margin-botton: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark"/>
+<img align="right" style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark"/>
 
 - Sou Desenvolvedor web Fron-End
 
