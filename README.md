@@ -1,13 +1,13 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Sou Willian Igor</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark"/>
+<img align="right" margin-botton="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark"/>
 
 - Sou Desenvolvedor web Fron-End
 
 - Gosto de completar desafios, participar de bootcamps e maratonas!
 <div>
 
-  #### Minhas Habilidades:
+  <h3>Minhas Habilidades:</h3>
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=0d1117&style=for-the-badge&logo=HTML5"/>
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=0d1117&style=for-the-badge&logo=CSS3"/>
   <img src="https://img.shields.io/static/v1?label=&message=SASS&color=0d1117&style=for-the-badge&logo=Sass"/>
@@ -15,7 +15,7 @@
 </div>
 <div>
 
-  #### Estou aprimorando:
+  <h3>Estou aprimorando:</h3>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
