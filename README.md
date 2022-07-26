@@ -1,35 +1,32 @@
-<h1 align="center">Olá!</h1>
-<h3>= Sou Desenvolvedor web Fron-End<br>= Gosto de completar desafios, participar de bootcamps e maratonas!</h3>
-<h4>Minhas Habilidades:</h4>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SASS</li>
-</ul>
-<h4>Estou aprimorando:</h4>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Next.JS</li>
-</ul>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Sou Willian Igor</h1>
 
-<!-- 
-<h1 align="center">Hello!</h1>
-<h3>= I'm a Front End Web Developer<br>= I enjoy completing challenges, participating in bootcamps and marathons!</h3>
-<h4>Skills:</h4>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SASS</li>
-</ul>
-<h4>Improving:</h4>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Next.JS</li>
-</ul>
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianprof&layout=compact&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+- Sou Desenvolvedor web Fron-End
+
+- Gosto de completar desafios, participar de bootcamps e maratonas!
+<div>
+
+  #### Minhas Habilidades:
+  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=0d1117&style=for-the-badge&logo=HTML5"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=0d1117&style=for-the-badge&logo=CSS3"/>
+  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=0d1117&style=for-the-badge&logo=Sass"/>
+  
+</div>
+<div>
+
+  #### Estou aprimorando:
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
+
+</div>
+
+<h2></h2>
+
+<a href="https://github.com/Willianprof" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=GitHub&color=181717&style=for-the-badge&logo=GitHub" alt="Github"></a>
+<a href="https://www.linkedin.com/in/willian-igor-santos-prof/" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="Github"></a>
+<a href="https://www.twitch.tv/willianigorprof" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Twitch&color=9146FF&style=for-the-badge&logo=Twitch" alt="Github"></a>
+<a href="mailto:willianigorprof@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Gmail&color=EA4335&style=for-the-badge&logo=Gmail" alt="Github"></a>
+<a href="whatsapp://send?phone=5579998667534&text=Olá!" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=WhatsApp&color=25D366&style=for-the-badge&logo=WhatsApp" alt="Github"></a>
