@@ -27,6 +27,6 @@
 <h2></h2>
 
 
-<a href="https://www.linkedin.com/in/willian-igor-santos-prof/" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="Github"></a>
-<a href="https://www.twitch.tv/willianigorprof" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Twitch&color=9146FF&style=for-the-badge&logo=Twitch" alt="Github"></a>
-<a href="mailto:willianigorprof@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Gmail&color=EA4335&style=for-the-badge&logo=Gmail" alt="Github"></a>
+<!-- <a href="https://www.linkedin.com/in/willian-igor-santos-prof/" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn" alt="Github"></a> -->
+<a href="https://www.twitch.tv/yellowmoonastronaut" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Twitch&color=9146FF&style=for-the-badge&logo=Twitch" alt="Github"></a>
+<a href="mailto:yellowmoonastronaut@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=-&message=Gmail&color=EA4335&style=for-the-badge&logo=Gmail" alt="Github"></a>
