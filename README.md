@@ -1,4 +1,10 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Sou Willian Igor</h1>
+<h1 align="left">
+  <img width=100 src="https://cdn.discordapp.com/attachments/892816555069538375/1019314672027054131/unknown.png" align="right">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
+  Olá! Sou Willian, conhecido como:
+  <br>
+  "Yellow Moon Astronaut"
+</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowmoonastronaut&layout=compact&theme=github_dark"/>
 
