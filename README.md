@@ -1,9 +1,10 @@
 <h1 align="left">
   <img width=200 src="https://cdn.discordapp.com/attachments/892816555069538375/1019317887590215690/YMA.png" align="right">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
   Olá! Sou Willian, conhecido como:
-  <br>
-  "Yellow Moon Astronaut"
+  <br><br>
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
+  Yellow Moon Astronaut
+  <br><br>
 </h1>
 
 
