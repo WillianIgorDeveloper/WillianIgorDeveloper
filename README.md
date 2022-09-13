@@ -1,12 +1,12 @@
 <h1 align="left">
-  <img width=100 src="https://cdn.discordapp.com/attachments/892816555069538375/1019317887590215690/YMA.png" align="right">
+  <img width=200 src="https://cdn.discordapp.com/attachments/892816555069538375/1019317887590215690/YMA.png" align="right">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
   Olá! Sou Willian, conhecido como:
   <br>
   "Yellow Moon Astronaut"
 </h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowmoonastronaut&layout=compact&theme=github_dark"/>
+
 
 - Sou Desenvolvedor web Fron-End
 
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=SASS&color=0d1117&style=for-the-badge&logo=Sass"/>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=0d1117&style=for-the-badge&logo=Git"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowmoonastronaut&layout=compact&theme=github_dark"/>
 </div>
 
 <div>
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
   <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
 </div>
-
+<br>
 <h2></h2>
 
 <a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch"></a>
