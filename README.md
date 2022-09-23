@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img width=200 src="https://cdn.discordapp.com/attachments/892816555069538375/1022879182004420618/logo.png" align="right">
+  <img width=180 src="https://cdn.discordapp.com/attachments/892816555069538375/1022879182004420618/logo.png" align="right">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
   Olá! Sou Willian, conhecido como:
 </h1>
