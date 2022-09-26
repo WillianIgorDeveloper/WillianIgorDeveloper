@@ -5,7 +5,7 @@
 </h1>
 -->
 
-<img width=320 src="https://cdn.discordapp.com/attachments/892816555069538375/1024016224184713257/yellow-banner.png" align="right">
+<img width=300 src="https://cdn.discordapp.com/attachments/892816555069538375/1024016224184713257/yellow-banner.png" align="right">
 
 <h1 align="center">Yellow Moon Astronaut</h1>
 
