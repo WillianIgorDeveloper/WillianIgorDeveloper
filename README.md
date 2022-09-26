@@ -24,8 +24,9 @@
   <h3>Minhas Habilidades:</h3>
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=0d1117&style=for-the-badge&logo=HTML5"/>
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=0d1117&style=for-the-badge&logo=CSS3"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/static/v1?label=&message=Git&color=0d1117&style=for-the-badge&logo=Git"/>
+  <br>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
 </div>
 
 <div>
