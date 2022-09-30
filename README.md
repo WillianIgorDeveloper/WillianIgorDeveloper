@@ -6,7 +6,7 @@
 
 <h4>- Gosto de completar desafios, participar de bootcamps e maratonas!</h4>
 
-<br>
+<br><br>
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowmoonastronaut&layout=compact&theme=github_dark"/>
