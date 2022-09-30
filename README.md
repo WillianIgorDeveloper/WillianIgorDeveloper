@@ -13,9 +13,9 @@
 - Sou Desenvolvedor web Fron-End
 </h3>
 
-<h3>
+<h4>
 - Gosto de completar desafios, participar de bootcamps e maratonas!
-</h3>
+</h4>
 
 <br>
 <div>
@@ -38,6 +38,4 @@
 <h2></h2>
 
 <a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch"></a>
-<a href="https://www.twitch.tv/yellowmoonastronaut" target="_blank"><img src="https://img.shields.io/badge/twitch-%23181717.svg?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF" alt="Twitch"></a>
 <a href="mailto:yellowmoonastronaut@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail"></a>
-<img src="https://img.shields.io/badge/Yellow Moon 0577-%23181717.svg?style=for-the-badge&logo=Discord&logoColor=white&color=5865F2" alt="Discord">
