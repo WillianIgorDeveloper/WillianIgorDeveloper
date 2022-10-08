@@ -1,6 +1,7 @@
-<img width=200 src="https://cdn.discordapp.com/attachments/892816555069538375/1024016224184713257/yellow-banner.png" align="right">
+<img width=300 src="https://cdn.discordapp.com/attachments/892816555069538375/1024016224184713257/yellow-banner.png" align="right">
 
 
+<h1 align="center">  Olá!</h1>
 
 <h3>- Sou Desenvolvedor web Fron-End</h3>
 
