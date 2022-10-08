@@ -1,7 +1,7 @@
 <img width=300 src="https://cdn.discordapp.com/attachments/892816555069538375/1024016224184713257/yellow-banner.png" align="right">
 
 
-<h1 align="center">  Olá!</h1>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> Olá!</h1>
 
 <h3>- Sou Desenvolvedor web Fron-End</h3>
 
