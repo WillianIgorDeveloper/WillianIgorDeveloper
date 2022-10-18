@@ -1,11 +1,11 @@
-<img src="./src/public/main-illustration.svg" width=250 align="right">
+<img src="./src/public/main-illustration.svg" width=250 align="right" />
 
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40>
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40 />
   Saudações!
 </h1>
 
-<h3>- Sou Desenvolvedor web Fron-End</h3>
+<h3>- Sou Desenvolvedor Fron-End</h3>
 
 <h3>- Gosto de completar desafios, participar de bootcamps e maratonas!</h3>
 
@@ -30,5 +30,14 @@
 
 <h2></h2>
 
-<a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch"></a>
-<a href="mailto:yellowmoonastronaut@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch" />
+</a>
+
+<a href="mailto:yellowmoonastronaut@gmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=+5579998667534&text=Saudações!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-%23181717.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&color=25D366" alt="WatsApp" />
+</a>
