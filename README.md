@@ -38,6 +38,6 @@
   <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=+5579998667534&text=Saudações!" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=+5579998667534&text=Saudações!" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-%23181717.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&color=25D366" alt="WatsApp" />
 </a>
