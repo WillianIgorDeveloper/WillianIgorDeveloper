@@ -1,0 +1,71 @@
+/*========================================
+        Stylization type: Mobile Frist
+========================================*/
+@import 'variables';
+
+
+/*==================== 
+    Global
+====================*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    body {
+        background-color: --gray-50;
+        color: --purple-900;
+        font-size: $font-text-md;
+        line-height: $line-text-md;
+        a {
+            color: --purple-900;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+@media (max-width: $media-xs) {
+    body {
+        min-width: $media-xs;
+    }
+}
+
+/*==================== 
+    Container    
+====================*/
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+@media (min-width: $media-xs) {
+    .container {
+        padding: 0 $spacing-sm;
+    }
+}
+@media (min-width: $media-sm) {
+    .container {
+        padding: 0 $spacing-md;
+    }
+}
+@media (min-width: $media-md) {
+    .container {
+        padding: 0 $spacing-lg;
+    }
+}
+@media (min-width: $media-lg) {
+    .container {
+        max-width: $media-lg;
+        padding: 0 $spacing-xl;
+    }
+}
+@media (min-width: $media-xl) {
+    .container {
+        max-width: $media-xl;
+        padding: 0 $spacing-2xl;
+    }
+}
