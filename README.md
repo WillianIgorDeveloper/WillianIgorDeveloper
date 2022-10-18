@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowmoonastronaut&layout=compact&theme=github_dark"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianigordeveloper&layout=compact&theme=github_dark"/>
   
   <div>
     <h3>Minhas Habilidades:</h3>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch" />
 </a>
 
-<a href="mailto:yellowmoonastronaut@gmail.com" target="_blank" title="Gmail">
+<a href="mailto:willianigordeveloper@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
 </a>
 
