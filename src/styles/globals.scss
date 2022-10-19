@@ -3,6 +3,67 @@
 ========================================*/
 @import 'variables';
 
+/*==================== 
+    Color Palettes
+====================*/
+@media (prefers-color-scheme: dark) {
+    html {
+        color-scheme: dark;
+    }
+    :root {
+        --gray-50: #0D1117;
+        --gray-100: #161B22;
+        --gray-200: #21262D;
+        --gray-300: #30363D;
+        --gray-400: #484F58;
+        --gray-500: #6E7681;
+        --gray-600: #8B949E;
+        --gray-700: #B1BAC4;
+        --gray-800: #C9D1D9;
+        --gray-900: #F0F6FC;
+
+        --purple-50: #271052;
+        --purple-100: #3C1E70;
+        --purple-200: #553098;
+        --purple-300: #6E40C9;
+        --purple-400: #8957E5;
+        --purple-500: #A371F7;
+        --purple-600: #BC8CFF;
+        --purple-700: #D2A8FF;
+        --purple-800: #E2C5FF;
+        --purple-900: #EDDEFF;
+    }
+}
+
+@media (prefers-color-scheme: white) {
+    html {
+        color-scheme: white;
+    }
+    :root {
+        --gray-50: #F0F6FC;
+        --gray-100: #C9D1D9;
+        --gray-200: #B1BAC4;
+        --gray-300: #8B949E;
+        --gray-400: #6E7681;
+        --gray-500: #484F58;
+        --gray-600: #30363D;
+        --gray-700: #21262D;
+        --gray-800: #161B22;
+        --gray-900: #0D1117;
+        
+        --purple-50: #EDDEFF;
+        --purple-100: #E2C5FF;
+        --purple-200: #D2A8FF;
+        --purple-300: #BC8CFF;
+        --purple-400: #A371F7;
+        --purple-500: #8957E5;
+        --purple-600: #6E40C9;
+        --purple-700: #553098;
+        --purple-800: #3C1E70;
+        --purple-900: #271052;
+    }
+}
+
 
 /*==================== 
     Global
@@ -16,6 +77,7 @@
     font-family: 'Manrope', sans-serif;
     font-weight: 400;
     body {
+        min-width: 320px;
         background-color: --gray-50;
         color: --purple-900;
         font-size: $font-text-md;
@@ -29,20 +91,17 @@
         }
     }
 }
-@media (max-width: $media-xs) {
-    body {
-        min-width: $media-xs;
-    }
-}
+
 
 /*==================== 
     Container    
 ====================*/
 .container {
     width: 100%;
+    max-width: 1280px;
     margin: 0 auto;
 }
-@media (min-width: $media-xs) {
+@media (max-width: $media-sm) {
     .container {
         padding: 0 $spacing-sm;
     }
@@ -59,13 +118,11 @@
 }
 @media (min-width: $media-lg) {
     .container {
-        max-width: $media-lg;
         padding: 0 $spacing-xl;
     }
 }
 @media (min-width: $media-xl) {
     .container {
-        max-width: $media-xl;
         padding: 0 $spacing-2xl;
     }
 }
