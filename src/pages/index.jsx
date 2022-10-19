@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Menu from '../components/menu'
 
 export default function Home() {
   return (
@@ -7,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/icon.svg" />
         <title>Portifólio | Willian Igor</title>
       </Head>
-      <h1>Wellcome!</h1>
+      <Menu />
     </>
   )
 }
