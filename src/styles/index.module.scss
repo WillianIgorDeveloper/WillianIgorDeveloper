@@ -1,0 +1,28 @@
+@import './variables';
+
+.home {
+    padding: $spacing-7xl 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .mainIllustration {
+        width: 350px;
+        margin-bottom: $spacing-3xl;
+    }
+
+    h1 {
+        margin-bottom: $spacing-xl;
+
+        font-size: $font-heading-lg;
+        line-height: $line-heading-lg;
+        font-weight: 700;
+        color: var(--purple-400);
+    }
+
+    strong {
+        font-size: $font-heading-md;
+        line-height: $line-heading-md;
+    }
+}
