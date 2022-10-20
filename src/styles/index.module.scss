@@ -1,5 +1,6 @@
 @import './variables';
 
+
 /*==================== 
     Home Section
 ====================*/
@@ -98,6 +99,11 @@
 }
 
 
+
+
 /*==================== 
     Projects Section
 ====================*/
+.projects {
+    background-color: var(--gray-100);
+}

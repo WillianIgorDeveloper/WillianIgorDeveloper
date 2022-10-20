@@ -1,0 +1,23 @@
+@import '../styles/variables';
+
+.up {
+    overflow: hiden;
+    height: 55px;
+    svg {
+        fill: #161B22; 
+        width: 100%; 
+        height: 55px; 
+        transform: rotate(180deg);
+    }
+}
+
+.down {
+    overflow: hiden;
+    height: 55px;
+
+    svg {
+        fill: #161B22; 
+        width: 100%; 
+        height: 55px; 
+    }
+}

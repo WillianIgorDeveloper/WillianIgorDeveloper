@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import Divider from '../components/Divider'
+
 import Menu from '../components/menu'
 
 import style from '../styles/index.module.scss'
@@ -10,7 +12,9 @@ export default function Home() {
         <link rel="icon" href="/icon.svg" />
         <title>Portifólio | Willian Igor</title>
       </Head>
+      
       <Menu />
+
       <main>
         <section id='Home' className={style.home}>
           <img 
@@ -23,9 +27,34 @@ export default function Home() {
             <strong>Devenvolvedor Front-End</strong>
           </div>
         </section>
-        <section id='Projects' className={style.projects}>
 
+
+        <Divider type="up" />
+        <section id='Projects' className={style.projects}>
+          <div className='container'>
+            <div>
+              <div>
+                <h2>Projetos</h2>
+                {/* <img
+                  src=""
+                  alt=""
+                /> */}
+              </div>
+              <div>
+                {/* <ProjectsCarousel /> */}
+                {/* <ProjectsCarousel /> */}
+              </div>
+            </div>
+            <div>
+              {/* <img
+                src=""
+                alt=""
+              /> */}
+              {/* <ProjectsCarousel /> */}
+            </div>
+          </div>
         </section>
+        <Divider type="down" />
       </main>
     </>
   )
