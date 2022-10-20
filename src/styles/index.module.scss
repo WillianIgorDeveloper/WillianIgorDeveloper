@@ -1,28 +1,103 @@
 @import './variables';
 
+/*==================== 
+    Home Section
+====================*/
 .home {
     padding: $spacing-7xl 0;
 
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: $spacing-3xl;
 
     .mainIllustration {
         width: 350px;
-        margin-bottom: $spacing-3xl;
     }
 
-    h1 {
-        margin-bottom: $spacing-xl;
+    .textContainer {
+        display: flex;
+        flex-direction: column;
+        gap: $spacing-xl;
+        align-items: center;
 
-        font-size: $font-heading-lg;
-        line-height: $line-heading-lg;
-        font-weight: 700;
-        color: var(--purple-400);
-    }
-
-    strong {
-        font-size: $font-heading-md;
-        line-height: $line-heading-md;
+        h1 {
+            font-size: $font-heading-lg;
+            line-height: $line-heading-lg;
+            font-weight: 700;
+            color: var(--purple-400);
+        }
+    
+        strong {
+            font-size: $font-heading-md;
+            line-height: $line-heading-md;
+        }
     }
 }
+
+// Media querys
+@media (max-width: $media-sm) {
+    .home {
+        .mainIllustration {
+            width: 250px;
+        }
+
+        .textContainer {
+            h1 {
+                font-size: $font-heading-sm;
+                line-height: $line-heading-sm;
+            }
+    
+            strong {
+                font-size: $font-heading-xs;
+                line-height: $line-heading-xs;
+            }
+        }
+    }
+}
+@media (min-width: $media-md) {
+    .home {
+        .mainIllustration {
+            width: 650px;
+        }
+
+        .textContainer {
+            h1 {
+                font-size: $font-heading-xl;
+                line-height: $line-heading-xl;
+            }
+    
+            strong {
+                font-size: $font-heading-md;
+                line-height: $line-heading-md;
+            }
+        }
+    }
+}
+@media (min-width: $media-lg) {
+        .home {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: unset;
+
+            .mainIllustration {
+                width: 550px;
+            }
+        }
+}
+@media (min-width: $media-xl) {
+        .home {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: $spacing-3xl;
+        }
+}
+
+
+/*==================== 
+    Projects Section
+====================*/

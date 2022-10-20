@@ -18,8 +18,13 @@ export default function Home() {
             alt="Ilustração de desenvolvedor" 
             className={style.mainIllustration}
           />
-          <h1>Willian Igor Santos</h1>
-          <strong>Devenvolvedor Front-End</strong>
+          <div className={style.textContainer}>
+            <h1>Willian Igor Santos</h1>
+            <strong>Devenvolvedor Front-End</strong>
+          </div>
+        </section>
+        <section id='Projects' className={style.projects}>
+
         </section>
       </main>
     </>
