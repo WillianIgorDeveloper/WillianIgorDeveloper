@@ -105,5 +105,47 @@
     Projects Section
 ====================*/
 .projects {
+    padding: $spacing-2xl 0;
+
     background-color: var(--gray-100);
+
+    .projectsContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: $spacing-xl;
+        margin-bottom: $spacing-xl;
+
+        .projectsWrapper {
+            text-align: center;
+
+            h2 {
+                font-size: $font-heading-md;
+                line-height: $line-heading-md;
+                margin-bottom: $spacing-xl;
+            }
+
+            img {
+                width: 350px;
+            }
+        }
+
+        .carouselWrapper {
+            display: flex;
+            flex-direction: column;
+            gap: $spacing-xl;
+            align-self: flex-start;
+        }   
+    }
+
+    .mitContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: $spacing-xl;
+
+        img {
+            width: 350px;
+        }
+    }
 }

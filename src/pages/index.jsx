@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Divider from '../components/Divider'
 
 import Menu from '../components/menu'
+import ProjectsCarousel from '../components/ProjectsCarousel'
 
 import style from '../styles/index.module.scss'
 
@@ -32,25 +33,25 @@ export default function Home() {
         <Divider type="up" />
         <section id='Projects' className={style.projects}>
           <div className='container'>
-            <div>
-              <div>
+            <div className={style.projectsContainer}>
+              <div className={style.projectsWrapper}>
                 <h2>Projetos</h2>
-                {/* <img
-                  src=""
-                  alt=""
-                /> */}
+                <img
+                  src="/projects-illustration.svg"
+                  alt="Ilustração de Projetos"
+                />
               </div>
-              <div>
-                {/* <ProjectsCarousel /> */}
-                {/* <ProjectsCarousel /> */}
+              <div className={style.carouselWrapper}>
+                <ProjectsCarousel title="Páginas Web" type="webPages" />
+                <ProjectsCarousel title="Aplicações Web" type="webApps" />
               </div>
             </div>
-            <div>
-              {/* <img
-                src=""
-                alt=""
-              /> */}
-              {/* <ProjectsCarousel /> */}
+            <div className={style.mitContainer}>
+              <img
+                src="/mit-illustration.svg"
+                alt="Ilustação MIT"
+              />
+              <ProjectsCarousel title="Projetos de Código Aberto" type="mit" />
             </div>
           </div>
         </section>

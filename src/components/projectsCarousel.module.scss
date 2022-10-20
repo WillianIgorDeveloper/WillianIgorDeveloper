@@ -1,0 +1,78 @@
+@import '../styles/variables';
+
+.container {
+    h3 {
+        margin-bottom: $spacing-lg;
+
+        display: block;
+
+        font-size: $font-heading-sm;
+        line-height: $line-heading-sm;
+    }
+
+    ul {
+        display: flex;
+        gap: $spacing-xl;
+
+        li {
+            position: relative;
+            
+            width: 220px;
+            height: 250px;
+            overflow: hidden;
+
+            border-radius: $radious-md;
+            box-shadow: 0 0 4px 2px var(--gray-200);
+
+            .footerWrapper {
+                width: 100%;
+                text-align: center;
+                padding-top: $spacing-sm;
+
+                position: absolute;
+                bottom: 0;
+                left: 0;
+
+                box-shadow: 0 0 4px 2px rgba(84, 48, 152, 0.75);
+                background: rgba(84, 48, 152, 0.75);
+                backdrop-filter: blur(7.4px);
+                -webkit-backdrop-filter: blur(7.4px);
+
+                h4 {
+                    text-align: center;
+                    margin-bottom: $spacing-xs;
+
+                    display: block;
+
+                    font-weight: 500;
+                    font-size: $font-text-xl;
+                    line-height: $line-text-xl;
+                }
+
+                .linkWrapper {
+                    width: 100%;
+
+                    display: flex;
+
+                    a {
+                        width: 50%;
+                        padding: $spacing-sm 0;
+
+                        font-weight: 300;
+                        color: var(--gray-900);
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Media querys
+@media (max-width: $media-sm) {
+}
+@media (min-width: $media-md) {
+}
+@media (min-width: $media-lg) {
+}
+@media (min-width: $media-xl) {
+}
