@@ -1,4 +1,7 @@
 import Image from 'next/image'
+
+
+
 import style from './projectsCarousel.module.scss'
 
 const cards = {
@@ -66,6 +69,7 @@ const cards = {
 
 
 export default function ProjectsCarousel ({title, type}) {
+
     return (
         <div className={style.container}>
             <h3>{title}</h3>
