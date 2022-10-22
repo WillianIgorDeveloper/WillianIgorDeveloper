@@ -154,3 +154,132 @@
         }
     }
 }
+
+
+/*==================== 
+    About Section
+====================*/
+.about {
+    padding-top: $spacing-2xl;
+    padding-bottom: $spacing-2xl;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $spacing-xl;
+
+    h2 {
+        font-size: $font-heading-md;
+        line-height: $line-heading-md;
+    }
+
+    .aboutContainer {
+        display: flex;
+        flex-direction: column;
+        gap: $spacing-xl;
+
+    
+        img {
+            width: 350px;
+            align-self: center;
+        }
+    
+        .aboutWrapper {
+            display: flex;
+            flex-direction: column;
+            gap: $spacing-2xl;
+    
+            .skillsWrapper {
+                display: flex;
+                flex-direction: column;
+                gap: $spacing-lg;
+    
+                h3 {
+                    font-size: $font-text-lg;
+                    line-height: $line-text-lg;
+                    font-weight: 600;
+                }
+    
+                img {
+                    width: 24px;
+                }
+    
+                ul:nth-child(2) {
+                    img {
+                        width: 32px;
+                    }
+                }
+    
+                ul {
+                    display: flex;
+                    gap: $spacing-xl;
+                    align-items: center;
+    
+                    li {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+    
+                        span {
+                            font-size: $font-text-xs;
+                            line-height: $line-text-xs;
+                            font-weight: 300;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+// Media querys
+@media (max-width: $media-sm) {
+    .about {
+        h2 {
+            font-size: $font-heading-xs;
+            line-height: $line-heading-xs;
+        }
+
+        .aboutContainer {
+            img {
+                width: 250px;
+            }
+
+            .aboutWrapper {
+                p {
+                    font-size: $font-text-sm;
+                    line-height: $line-text-sm;
+                }
+    
+                .skillsWrapper {
+                    h3 {
+                        font-size: $font-text-md;
+                        line-height: $line-text-md;
+                        font-weight: 600;
+                    }
+                }
+            }
+        }
+    }
+}
+@media (min-width: $media-md) {
+    .about {
+        .aboutContainer {
+            .aboutWrapper {
+                .skillsWrapper {
+                    align-items: center;
+                }
+            }
+        }
+    }
+}
+@media (min-width: $media-lg) {
+    .about {
+        .aboutContainer {
+            flex-direction: row;
+
+            img {
+                width: 40%;
+            }
+        }
+    }
+}
