@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 import Divider from '../components/Divider'
 import Menu from '../components/menu'
+import Footer from '../components/Footer'
 
 import style from '../styles/index.module.scss'
 
@@ -85,6 +86,8 @@ export default function Home() {
               </div>
             </div>
         </section>
+
+        <Footer />
       </main>
     </>
   )

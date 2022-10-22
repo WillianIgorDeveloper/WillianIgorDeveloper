@@ -1,0 +1,68 @@
+@import '../styles/variables';
+
+.footer {
+    padding: $spacing-2xl;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $spacing-xl;
+
+    background-color: var(--gray-200);
+
+    h2 {
+        font-size: $font-heading-md;
+        line-height: $line-heading-md;
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+        gap: $spacing-2xl;
+
+        li {
+            transition: transform .2s;
+            &:hover {
+                transform: scale(1.2, 1.2);
+                transition: transform .2s;
+            }
+            a img {
+                width: 32px;
+            }
+        }
+    } 
+
+    a button {
+        padding: $spacing-md $spacing-lg;
+
+        display: flex;
+        align-items: center;
+        gap: $spacing-sm;
+
+        background-color: var(--purple-300);
+        border: none;
+        border-radius: $radious-md;
+
+        font-size: $font-text-xl;
+        line-height: $line-text-xl;
+
+        &:hover {
+            cursor: pointer;
+            background-color: var(--purple-400);
+        }
+    }
+
+    address {
+        font-weight: 300;
+    }
+}
+
+// Media querys
+@media (max-width: $media-sm) {
+}
+@media (min-width: $media-md) {
+}
+@media (min-width: $media-lg) {
+}
+@media (min-width: $media-xl) {
+}
