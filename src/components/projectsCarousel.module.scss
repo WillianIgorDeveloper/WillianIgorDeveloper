@@ -8,17 +8,20 @@
 
         font-size: $font-heading-sm;
         line-height: $line-heading-sm;
+        text-align: center;
     }
 
     ul {
         display: flex;
-        gap: $spacing-xl;
+        gap: $spacing-lg;
+        justify-content: center;
+        flex-wrap: wrap;
 
         li {
             position: relative;
             
-            width: 220px;
-            height: 250px;
+            width: 190px;
+            height: 220px;
             overflow: hidden;
 
             border-radius: $radious-md;
@@ -69,10 +72,10 @@
 
 // Media querys
 @media (max-width: $media-sm) {
-}
-@media (min-width: $media-md) {
-}
-@media (min-width: $media-lg) {
-}
-@media (min-width: $media-xl) {
+    .container {
+        h3 {
+            font-size: $font-text-xl;
+            line-height: $line-text-xs;
+        }
+    }
 }

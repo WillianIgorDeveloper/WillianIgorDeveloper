@@ -154,6 +154,33 @@
         }
     }
 }
+// Media querys
+@media (max-width: $media-sm) {
+    .projects {
+        .projectsContainer {
+            .projectsWrapper {
+                h2 {
+                    font-size: $font-heading-xs;
+                    line-height: $line-heading-xs;
+                }
+                img {
+                    width: 250px;
+                }
+            }
+        }
+        .mitContainer {
+            img {
+                width: 250px;
+            }
+        }
+    }
+}
+@media (min-width: $media-md) {
+}
+@media (min-width: $media-lg) {
+}
+@media (min-width: $media-xl) {
+}
 
 
 /*==================== 

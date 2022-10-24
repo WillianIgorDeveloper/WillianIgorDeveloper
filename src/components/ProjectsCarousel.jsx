@@ -1,7 +1,5 @@
 import Image from 'next/image'
 
-
-
 import style from './projectsCarousel.module.scss'
 
 const cards = {
