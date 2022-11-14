@@ -16,15 +16,16 @@
   
   <div>
     <h3>Minhas Habilidades:</h3>
-    <img src="https://img.shields.io/static/v1?label=&message=HTML&color=0d1117&style=for-the-badge&logo=HTML5"/>
-    <img src="https://img.shields.io/static/v1?label=&message=CSS&color=0d1117&style=for-the-badge&logo=CSS3"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Sass&color=0d1117&style=for-the-badge&logo=Sass"/>
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Tailwind CSS&color=0d1117&style=for-the-badge&logo=Tailwind CSS"/>
   </div>
 
   <div>
     <h3>Estou aprimorando:</h3>  
     <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
     <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
+    <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
   </div>
 </div>
 
