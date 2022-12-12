@@ -1,15 +1,13 @@
-<img src="./public/brand-illustration.svg" width=250 align="right" />
+<img src="./public/brand-illustration-animated.svg" width=260 align="right" />
+<div>
+  <h1 align="left">
+    Saudações!
+  </h1>
+  <h3>- Sou Desenvolvedor Fron-End</h3>
+  <h3>- Gosto de completar desafios, participar de bootcamps e maratonas!</h3>
+</div>
 
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40 />
-  Saudações!
-</h1>
-
-<h3>- Sou Desenvolvedor Fron-End</h3>
-
-<h3>- Gosto de completar desafios, participar de bootcamps e maratonas!</h3>
-
-<br>
+<br><br>
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianigordeveloper&layout=compact&theme=github_dark"/>
