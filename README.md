@@ -1,4 +1,4 @@
-<img src="./public/main-illustration.svg" width=250 align="right" />
+<img src="./public/brand-illustration.svg" width=250 align="right" />
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40 />
