@@ -30,13 +30,13 @@
 <h2></h2>
 
 <a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="Twitch" />
+  <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="LinkedIn" />
 </a>
 
 <a href="mailto:willianigordeveloper@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=+5579998667534&text=Saudações!" target="_blank" title="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-%23181717.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&color=25D366" alt="WatsApp" />
+<a href="https://t.me/WillianIgor" target="_blank" title="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-%23181717.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" alt="Telegram" />
 </a>
