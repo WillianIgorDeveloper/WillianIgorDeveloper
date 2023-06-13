@@ -10,8 +10,6 @@
 <br><br>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianigordeveloper&layout=compact&theme=transparent"/>
-  
   <div>
     <h3>Minhas Habilidades:</h3>
     <img src="https://img.shields.io/static/v1?label=&message=Sass&color=0d1117&style=for-the-badge&logo=Sass"/>
