@@ -10,7 +10,7 @@
 <br><br>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianigordeveloper&layout=compact&theme=github_dark"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianigordeveloper&layout=compact&theme=transparent"/>
   
   <div>
     <h3>Minhas Habilidades:</h3>
