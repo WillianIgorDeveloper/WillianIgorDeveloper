@@ -1,4 +1,4 @@
-<img src="./public/brand-illustration-animate.svg" width=230 align="right" />
+<img src="./public/brand-illustration-animated.svg" width=230 align="right" />
 <div>
   <h1 align="left">
     Saudações!
