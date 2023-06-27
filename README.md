@@ -4,7 +4,7 @@
     Saudações!
   </h1>
   <h3>- Sou Desenvolvedor Fron-End</h3>
-  <h3>- Gosto de completar desafios, participar de bootcamps e maratonas!</h3>
+  <h3>- Gosto de completar desafios e participar de bootcamps e maratonas!</h3>
 </div>
 
 <br><br>
