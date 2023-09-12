@@ -38,6 +38,6 @@
   <img src="https://img.shields.io/badge/Telegram-%23181717.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" alt="Telegram" />
 </a>
 
-<a href="https://discord.gg/Ncp7Ejzu" target="_blank" title="discord">
+<!-- <a href="https://discord.gg/Ncp7Ejzu" target="_blank" title="discord">
   <img src="https://img.shields.io/badge/discord-%23181717.svg?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord" />
-</a>
+</a> --->
