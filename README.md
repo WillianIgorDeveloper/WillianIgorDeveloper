@@ -1,11 +1,10 @@
+# Saudações!
+
+### Sou Desenvolvedor Fron-End
+
+### Gosto de completar desafios e participar de bootcamps e maratonas!
+
 <img src="./public/brand-illustration-animated.svg" width=230 align="right" />
-<div>
-  <h1 align="left">
-    Saudações!
-  </h1>
-  <h3>• Sou Desenvolvedor Fron-End</h3>
-  <h3>• Gosto de completar desafios e participar de bootcamps e maratonas!</h3>
-</div>
 
 <br>
 
