@@ -1,30 +1,26 @@
-# Saudações!
+# Saudações
+- 🚀 Desenvolvedor front-end a 2 anos
+- 📚 Amante de desafios e aprendizagem contínua 
 
-### Sou Desenvolvedor Fron-End
-
-### Gosto de completar desafios e participar de bootcamps e maratonas!
-
-<img src="./public/brand-illustration-animated.svg" width=230 align="right" />
-
-<br>
-
+### Habilidades técnicas principais
 <div>
-  <div>
-    <h3>Minhas Habilidades:</h3>
-    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
-    <img src="https://img.shields.io/static/v1?label=&message=Tailwind CSS&color=0d1117&style=for-the-badge&logo=Tailwind CSS"/>
-    <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
-  </div>
-
-  <div>
-    <h3>Estou aprimorando:</h3>  
-    <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
-    <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
-  </div>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
 </div>
 
-<h2></h2>
+### Conhecimento básico
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=Node JS&color=0d1117&style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/static/v1?label=&message=SQL&color=0d1117&style=for-the-badge&logo=sqlite"/>
+</div>
 
+### Atualmente aprimorando
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
+</div>
+
+#### Contato
 <a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="LinkedIn" />
 </a>
@@ -36,7 +32,3 @@
 <a href="https://t.me/WillianIgor" target="_blank" title="Telegram">
   <img src="https://img.shields.io/badge/Telegram-%23181717.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" alt="Telegram" />
 </a>
-
-<!-- <a href="https://discord.gg/Ncp7Ejzu" target="_blank" title="discord">
-  <img src="https://img.shields.io/badge/discord-%23181717.svg?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord" />
-</a> --->
