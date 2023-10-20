@@ -9,13 +9,13 @@ export default function Home() {
         <title>Willian Igor | Portifólio - Home</title>
         <link rel="icon" href="/icon.svg" />
           <meta name="description" content="A fornt end React developer ">
-          <!-- Facebook Meta Tags -->
+         
           <meta property="og:url" content="https://willianigordeveloper.vercel.app/">
           <meta property="og:type" content="website">
           <meta property="og:title" content="Willian Igor Developer">
           <meta property="og:description" content="A fornt end React developer ">
           <meta property="og:image" content="https://raw.githubusercontent.com/WillianIgorDeveloper/WillianIgorDeveloper/7d56c9b3c56a733df76a580aab121bdd4a89be80/public/brand-illustration-animate.svg">     
-          <!-- Twitter Meta Tags -->
+          
           <meta name="twitter:card" content="summary_large_image">
           <meta property="twitter:domain" content="willianigordeveloper.vercel.app">
           <meta property="twitter:url" content="https://willianigordeveloper.vercel.app/">
