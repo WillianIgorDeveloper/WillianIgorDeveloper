@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Willian Igor | Portifólio - Home</title>
         <link rel="icon" href="/icon.svg" />
+        <meta property="og:image" content="https://media.discordapp.net/attachments/1129761952743301180/1163845750741020803/icon.png?ex=65410ed2&is=652e99d2&hm=0f0bce67d59171a1efa045cf37aacab99b66b90ae9a9b632e1eb1c86310795b2&=" />
       </Head>
 
       <main className='container m-auto'>
