@@ -1,5 +1,5 @@
 # Saudações
-- 🚀 Desenvolvedor front-end a 2 anos
+- 🚀 Desenvolvedor Full-stack a 2 anos
 - 📚 Amante de desafios e aprendizagem contínua
 - 💼 Atualmente atuando com Full-stack na <a target="_blank" href="https://www.inovesystem.com/">iNove System</a>
 
