@@ -7,18 +7,25 @@
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
 </div>
 
 ### Conhecimento básico
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=Node JS&color=0d1117&style=for-the-badge&logo=nodedotjs"/>
   <img src="https://img.shields.io/static/v1?label=&message=SQL&color=0d1117&style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Express&color=0d1117&style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Fastify&color=0d1117&style=for-the-badge&logo=fastify"/>
 </div>
 
 ### Atualmente aprimorando
 <div>
-  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=0d1117&style=for-the-badge&logo=Next.js"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Prisma&color=0d1117&style=for-the-badge&logo=prisma"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=0d1117&style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Nest JS&color=0d1117&style=for-the-badge&logo=nestjs"/>
+  <img src="https://img.shields.io/static/v1?label=&message=React Native&color=0d1117&style=for-the-badge&logo=React"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Electron&color=0d1117&style=for-the-badge&logo=electron"/>
 </div>
 
 #### Contato
@@ -28,8 +35,4 @@
 
 <a href="mailto:willianigordeveloper@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
-</a>
-
-<a href="https://t.me/WillianIgor" target="_blank" title="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-%23181717.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" alt="Telegram" />
 </a>
