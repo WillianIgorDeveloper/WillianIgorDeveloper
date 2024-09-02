@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/static/v1?label=&message=Docker&color=0d1117&style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/static/v1?label=&message=Nest JS&color=0d1117&style=for-the-badge&logo=nestjs"/>
   <img src="https://img.shields.io/static/v1?label=&message=React Native&color=0d1117&style=for-the-badge&logo=React"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Electron&color=0d1117&style=for-the-badge&logo=electron"/>
 </div>
 
 #### Contato
