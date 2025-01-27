@@ -3,7 +3,7 @@
 - 📚 Amante de desafios e aprendizagem contínua
 - 💼 Atualmente atuando com Full-stack na <a target="_blank" href="https://www.inovesystem.com/">iNove System</a>
 
-### Habilidades técnicas principais
+### Habilidades técnicas
 <div>
    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d1117&style=for-the-badge&logo=JavaScript"/>
    <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=0d1117&style=for-the-badge&logo=TypeScript"/>
