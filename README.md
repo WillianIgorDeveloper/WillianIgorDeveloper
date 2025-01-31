@@ -18,12 +18,3 @@
    <img src="https://img.shields.io/static/v1?label=&message=Cypress&color=0d1117&style=for-the-badge&logo=cypress"/>
    <img src="https://img.shields.io/static/v1?label=&message=Jest&color=0d1117&style=for-the-badge&logo=jest"/>
 </div>
-
-#### Contato
-<a href="https://www.linkedin.com/in/willian-igor-santos/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-%23181717.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2" alt="LinkedIn" />
-</a>
-
-<a href="mailto:willianigordeveloper@gmail.com" target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/Email-%23181717.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335" alt="Gmail" />
-</a>
