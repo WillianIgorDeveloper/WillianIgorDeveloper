@@ -17,4 +17,3 @@
 - 🧠 Scalability, simplicity and speed
 - 🪀 Game Master on my spare time
 
----
