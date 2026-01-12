@@ -15,5 +15,5 @@
 - 🪄 A clean code well structured can work magic
 - 🚀 Full-stack developer for 4 years
 - 🧠 Scalability, simplicity and speed
-- 🪀 Game Master on my spare time
+- 🪀 Dungeon Master on my spare time
 
