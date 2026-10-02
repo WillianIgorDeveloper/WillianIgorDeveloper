@@ -1,6 +1,6 @@
 <h1 align="center">Saudações</h1>
 <p align="center">
-  <em>Full Stack Developer · aspiring software engineer</em>
+  <em>Aspiring software engineer</em>
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
 
 ### 💡 About me
 
-- 🪄 A clean code well structured can work magic
+- 🪄 AI well structured can work magic
 - 🚀 Full-stack developer for 4 years
 - 🧠 Scalability, simplicity and speed
-- 🪀 Dungeon Master on my spare time
-
