@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Willian Igor · Full-stack Developer</title>
+    <meta
+      name="description"
+      content="Willian Igor — full-stack developer building web, mobile and back-end products with a focus on scalability, simplicity and speed."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://willianigordeveloper.com" />
+    <meta property="og:title" content="Willian Igor · Full-stack Developer" />
+    <meta
+      property="og:description"
+      content="Full-stack developer building web, mobile and back-end products."
+    />
+    <meta name="twitter:card" content="summary" />
+    <script>
+      // Apply the saved (or system) theme before first paint to avoid a flash
+      try {
+        const saved = localStorage.getItem("theme")
+        const prefersDark = matchMedia("(prefers-color-scheme: dark)").matches
+        if (saved === "dark" || (!saved && prefersDark)) {
+          document.documentElement.classList.add("dark")
+        }
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
