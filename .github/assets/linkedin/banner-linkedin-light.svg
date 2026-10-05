@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" fill="none">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#f0f0f2" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.72" cy="0" r="0.9">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.75" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="mask"><rect width="1584" height="396" fill="url(#fade)"/></mask>
+  </defs>
+  <style>
+    .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: "Noto Sans", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect width="1584" height="396" fill="#ffffff"/>
+  <rect width="1584" height="396" fill="url(#grid)" mask="url(#mask)"/>
+
+  <!-- Location -->
+  <rect x="1302.5" y="56.5" width="186" height="31" fill="#ffffff" stroke="#e4e4e7"/>
+  <g transform="translate(1314 64) scale(0.66)" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/>
+    <circle cx="12" cy="10" r="3"/>
+  </g>
+  <text x="1338" y="77" class="mono" font-size="13" fill="#71717a">Sergipe, Brazil</text>
+
+  <!-- Name -->
+  <text x="1488" y="140" text-anchor="end" class="mono" font-size="15" fill="#71717a">Hi, I'm</text>
+  <text x="1488" y="212" text-anchor="end" class="mono" font-size="76" font-weight="700" letter-spacing="-3" fill="#09090b">Willian Igor<tspan fill="#2563eb">_</tspan></text>
+  <text x="1488" y="256" text-anchor="end" class="mono" font-size="21" fill="#2563eb">Full-stack developer</text>
+
+  <!-- Tagline -->
+  <text x="1488" y="310" text-anchor="end" class="sans" font-size="18" fill="#71717a">I build web, mobile and back-end products with a focus on scalability, simplicity and speed.</text>
+</svg>
